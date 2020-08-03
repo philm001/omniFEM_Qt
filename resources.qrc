@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/accessories-calculator.png</file>
+        <file>images/document-new.png</file>
+        <file>images/document-open.png</file>
+        <file>images/document-save.png</file>
+        <file>images/document-save-as.png</file>
+        <file>images/draw-path.png</file>
+        <file>images/draw-rectangle.png</file>
+        <file>images/edit-copy.png</file>
+        <file>images/edit-delete.png</file>
+        <file>images/edit-find.png</file>
+        <file>images/run-build.png</file>
+        <file>images/story-editor.png</file>
+        <file>images/transform-move.png</file>
+        <file>images/transform-scale.png</file>
+        <file>images/zoom-in.png</file>
+        <file>images/zoom-out.png</file>
+        <file>fonts/DejaVuSansMono.ttf</file>
+    </qresource>
+</RCC>
